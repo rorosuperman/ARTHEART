@@ -1,0 +1,24 @@
+.nav-blur{
+    backdrop-filter: blur(10px) !important;
+    background: rgba(167, 167, 167, 0.458) !important;
+}
+
+  .center-section-1 {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    background-image: url('ASSESTS/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project\ 5.png'); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  } 
+
+  .center-section-2 {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    background-image: url('ASSESTS/Category_Paintings\ by\ Rachel\ Ruysch\ -\ Wikimedia\ Commons\ 1.png'); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  } 
